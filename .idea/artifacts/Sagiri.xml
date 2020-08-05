@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Sagiri">
+    <output-path>$PROJECT_DIR$/out/artifacts/Sagiri</output-path>
+    <root id="archive" name="Sagiri.jar">
+      <element id="module-output" name="sagiri" />
+    </root>
+  </artifact>
+</component>

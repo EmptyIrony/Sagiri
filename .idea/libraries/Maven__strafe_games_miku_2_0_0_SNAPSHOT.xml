@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Maven: strafe.games:miku:2.0.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/strafe/games/Miku/2.0.0-SNAPSHOT/miku-2.0.0-20200209.050310-62.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/strafe/games/Miku/2.0.0-SNAPSHOT/miku-2.0.0-SNAPSHOT-javadoc.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/strafe/games/Miku/2.0.0-SNAPSHOT/miku-2.0.0-20200209.050310-62-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/strafe/games/Miku/2.0.0-SNAPSHOT/miku-2.0.0-SNAPSHOT-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/strafe/games/Miku/2.0.0-SNAPSHOT/miku-2.0.0-20200209.050310-62-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

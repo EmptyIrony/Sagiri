@@ -1,0 +1,17 @@
+name: Sagiri
+author: Charlotte LLC.
+version: 1.0
+main: strafe.games.sagiri.Sagiri
+depend:
+  - Miku
+commands:
+  set:
+    description: no more
+  forcestart:
+    description: no more
+  save:
+    description: no more
+  shabishujukusantianzhineishaleni:
+    description: no more
+  staff:
+    description: no more
